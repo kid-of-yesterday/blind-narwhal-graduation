@@ -81,6 +81,7 @@ public class PlayerController : MonoBehaviour
                 currentSlowMultiplier = 1f;
             }
         }
+ 
     }
 
     private void FixedUpdate()
